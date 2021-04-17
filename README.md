@@ -1,5 +1,5 @@
 # Sparks-foundation-data-science-and-business-analytics-Tasks
-This is a simple regression model using Supervised machine learning.
+This is a Supervised machine learning model.
 I have used juypter notebook and python libraries like numpy, pandas and sklearn to build a simple regression model involving two variables.
 Steps inculded:
 1. Plotting the given data set.
